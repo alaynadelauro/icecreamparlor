@@ -1,0 +1,23 @@
+body{
+    background-color:pink;
+}
+.checkouttop{
+    color:plum;
+}
+.checkout{
+    background-color:bisque;
+}
+
+
+.itembutton{
+    background-color:white;
+    border-radius: 10%;
+}
+.itemimage{
+    max-height:20vh;
+    max-width:20vh;
+    border-radius:10%;
+}
+.spacedCheckout{
+    background-color:beige;
+}
